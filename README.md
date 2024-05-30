@@ -1,2 +1,2 @@
-# Yaz-l-m-Kalite-G-vencesi-ve-Testi
+# Yazilim Kalite Güvencesi ve Testi 
 Yazılım Kalite Güvencesi ve Testinde gerçekleştirdiğimiz n11 sitesi üzerinde test projesi
