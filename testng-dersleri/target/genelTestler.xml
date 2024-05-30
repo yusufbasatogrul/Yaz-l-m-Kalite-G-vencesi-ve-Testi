@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testng Projem">
+    <listeners>
+        <listener class-name="org.testng.reporters.EmailableReporter2"/>
+        <listener class-name="org.testng.reporters.XMLReporter"/>
+        <listener class-name="org.testng.reporters.TestHTMLReporter"/>
+        
+    </listeners>
+    <test name="Pratikler">
+     <packages>
+         <package name="com.project.test"/>
+     </packages>
+    </test>
+</suite>

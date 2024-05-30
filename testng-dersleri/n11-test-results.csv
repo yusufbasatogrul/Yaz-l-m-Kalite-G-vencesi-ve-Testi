@@ -1,0 +1,7 @@
+testEvYasamMenu(),SUCCESS
+testAnneBebekMenu(),SUCCESS
+testElektronikMenu(),SUCCESS
+testModaMenu(),SUCCESS
+testSporOutdoorMenu(),FAILURE
+testMucevherSaatMenu(),FAILURE
+testKozmetikMenu(),FAILURE
